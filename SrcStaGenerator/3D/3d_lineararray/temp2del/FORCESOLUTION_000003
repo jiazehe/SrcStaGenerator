@@ -1,0 +1,11 @@
+FORCE  0
+time shift:      0.0000 
+f0 = 300000.000 
+latorUTM: 0.05000 
+longorUTM: 0.04000 
+depth: -0.02000 
+factor force sources:             1.d0 
+component dir vect source E:      0.d0 
+component dir vect source N:      0.d0 
+component dir vect source Z_UP:   1.d0 
+/home/jhe26/csp2d_base/DATA/sources/Lin3_5pks_iobs_7srcs/ 
