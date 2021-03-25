@@ -1,0 +1,220 @@
+FORCE  0
+time shift:      0.0000 
+f0:  100000.000 
+latorUTM:          -0.01000 
+longorUTM:         0.00000 
+depth:             0.01600 
+factor force source:              1.d0 
+component dir vect source E:      0.d0 
+component dir vect source N:      0.d0 
+component dir vect source Z_UP:   1.d0 
+/home/jhe26/csp2d_base/DATA/sources3d/3D_5pks_simamp_nod_21srcs_100k_wdelay/0000 
+FORCE  0
+time shift:      0.0000 
+f0:  100000.000 
+latorUTM:          -0.01000 
+longorUTM:         0.00000 
+depth:             0.01653 
+factor force source:              1.d0 
+component dir vect source E:      0.d0 
+component dir vect source N:      0.d0 
+component dir vect source Z_UP:   1.d0 
+/home/jhe26/csp2d_base/DATA/sources3d/3D_5pks_simamp_nod_21srcs_100k_wdelay/0001 
+FORCE  0
+time shift:      0.0000 
+f0:  100000.000 
+latorUTM:          -0.01000 
+longorUTM:         0.00000 
+depth:             0.01705 
+factor force source:              1.d0 
+component dir vect source E:      0.d0 
+component dir vect source N:      0.d0 
+component dir vect source Z_UP:   1.d0 
+/home/jhe26/csp2d_base/DATA/sources3d/3D_5pks_simamp_nod_21srcs_100k_wdelay/0002 
+FORCE  0
+time shift:      0.0000 
+f0:  100000.000 
+latorUTM:          -0.01000 
+longorUTM:         0.00000 
+depth:             0.01758 
+factor force source:              1.d0 
+component dir vect source E:      0.d0 
+component dir vect source N:      0.d0 
+component dir vect source Z_UP:   1.d0 
+/home/jhe26/csp2d_base/DATA/sources3d/3D_5pks_simamp_nod_21srcs_100k_wdelay/0003 
+FORCE  0
+time shift:      0.0000 
+f0:  100000.000 
+latorUTM:          -0.01000 
+longorUTM:         0.00000 
+depth:             0.01811 
+factor force source:              1.d0 
+component dir vect source E:      0.d0 
+component dir vect source N:      0.d0 
+component dir vect source Z_UP:   1.d0 
+/home/jhe26/csp2d_base/DATA/sources3d/3D_5pks_simamp_nod_21srcs_100k_wdelay/0004 
+FORCE  0
+time shift:      0.0000 
+f0:  100000.000 
+latorUTM:          -0.01000 
+longorUTM:         0.00000 
+depth:             0.01863 
+factor force source:              1.d0 
+component dir vect source E:      0.d0 
+component dir vect source N:      0.d0 
+component dir vect source Z_UP:   1.d0 
+/home/jhe26/csp2d_base/DATA/sources3d/3D_5pks_simamp_nod_21srcs_100k_wdelay/0005 
+FORCE  0
+time shift:      0.0000 
+f0:  100000.000 
+latorUTM:          -0.01000 
+longorUTM:         0.00000 
+depth:             0.01916 
+factor force source:              1.d0 
+component dir vect source E:      0.d0 
+component dir vect source N:      0.d0 
+component dir vect source Z_UP:   1.d0 
+/home/jhe26/csp2d_base/DATA/sources3d/3D_5pks_simamp_nod_21srcs_100k_wdelay/0006 
+FORCE  0
+time shift:      0.0000 
+f0:  100000.000 
+latorUTM:          -0.01000 
+longorUTM:         0.00000 
+depth:             0.01968 
+factor force source:              1.d0 
+component dir vect source E:      0.d0 
+component dir vect source N:      0.d0 
+component dir vect source Z_UP:   1.d0 
+/home/jhe26/csp2d_base/DATA/sources3d/3D_5pks_simamp_nod_21srcs_100k_wdelay/0007 
+FORCE  0
+time shift:      0.0000 
+f0:  100000.000 
+latorUTM:          -0.01000 
+longorUTM:         0.00000 
+depth:             0.02021 
+factor force source:              1.d0 
+component dir vect source E:      0.d0 
+component dir vect source N:      0.d0 
+component dir vect source Z_UP:   1.d0 
+/home/jhe26/csp2d_base/DATA/sources3d/3D_5pks_simamp_nod_21srcs_100k_wdelay/0008 
+FORCE  0
+time shift:      0.0000 
+f0:  100000.000 
+latorUTM:          -0.01000 
+longorUTM:         0.00000 
+depth:             0.02074 
+factor force source:              1.d0 
+component dir vect source E:      0.d0 
+component dir vect source N:      0.d0 
+component dir vect source Z_UP:   1.d0 
+/home/jhe26/csp2d_base/DATA/sources3d/3D_5pks_simamp_nod_21srcs_100k_wdelay/0009 
+FORCE  0
+time shift:      0.0000 
+f0:  100000.000 
+latorUTM:          -0.01000 
+longorUTM:         0.00000 
+depth:             0.02126 
+factor force source:              1.d0 
+component dir vect source E:      0.d0 
+component dir vect source N:      0.d0 
+component dir vect source Z_UP:   1.d0 
+/home/jhe26/csp2d_base/DATA/sources3d/3D_5pks_simamp_nod_21srcs_100k_wdelay/0010 
+FORCE  0
+time shift:      0.0000 
+f0:  100000.000 
+latorUTM:          -0.01000 
+longorUTM:         0.00000 
+depth:             0.02179 
+factor force source:              1.d0 
+component dir vect source E:      0.d0 
+component dir vect source N:      0.d0 
+component dir vect source Z_UP:   1.d0 
+/home/jhe26/csp2d_base/DATA/sources3d/3D_5pks_simamp_nod_21srcs_100k_wdelay/0011 
+FORCE  0
+time shift:      0.0000 
+f0:  100000.000 
+latorUTM:          -0.01000 
+longorUTM:         0.00000 
+depth:             0.02232 
+factor force source:              1.d0 
+component dir vect source E:      0.d0 
+component dir vect source N:      0.d0 
+component dir vect source Z_UP:   1.d0 
+/home/jhe26/csp2d_base/DATA/sources3d/3D_5pks_simamp_nod_21srcs_100k_wdelay/0012 
+FORCE  0
+time shift:      0.0000 
+f0:  100000.000 
+latorUTM:          -0.01000 
+longorUTM:         0.00000 
+depth:             0.02284 
+factor force source:              1.d0 
+component dir vect source E:      0.d0 
+component dir vect source N:      0.d0 
+component dir vect source Z_UP:   1.d0 
+/home/jhe26/csp2d_base/DATA/sources3d/3D_5pks_simamp_nod_21srcs_100k_wdelay/0013 
+FORCE  0
+time shift:      0.0000 
+f0:  100000.000 
+latorUTM:          -0.01000 
+longorUTM:         0.00000 
+depth:             0.02337 
+factor force source:              1.d0 
+component dir vect source E:      0.d0 
+component dir vect source N:      0.d0 
+component dir vect source Z_UP:   1.d0 
+/home/jhe26/csp2d_base/DATA/sources3d/3D_5pks_simamp_nod_21srcs_100k_wdelay/0014 
+FORCE  0
+time shift:      0.0000 
+f0:  100000.000 
+latorUTM:          -0.01000 
+longorUTM:         0.00000 
+depth:             0.02389 
+factor force source:              1.d0 
+component dir vect source E:      0.d0 
+component dir vect source N:      0.d0 
+component dir vect source Z_UP:   1.d0 
+/home/jhe26/csp2d_base/DATA/sources3d/3D_5pks_simamp_nod_21srcs_100k_wdelay/0015 
+FORCE  0
+time shift:      0.0000 
+f0:  100000.000 
+latorUTM:          -0.01000 
+longorUTM:         0.00000 
+depth:             0.02442 
+factor force source:              1.d0 
+component dir vect source E:      0.d0 
+component dir vect source N:      0.d0 
+component dir vect source Z_UP:   1.d0 
+/home/jhe26/csp2d_base/DATA/sources3d/3D_5pks_simamp_nod_21srcs_100k_wdelay/0016 
+FORCE  0
+time shift:      0.0000 
+f0:  100000.000 
+latorUTM:          -0.01000 
+longorUTM:         0.00000 
+depth:             0.02495 
+factor force source:              1.d0 
+component dir vect source E:      0.d0 
+component dir vect source N:      0.d0 
+component dir vect source Z_UP:   1.d0 
+/home/jhe26/csp2d_base/DATA/sources3d/3D_5pks_simamp_nod_21srcs_100k_wdelay/0017 
+FORCE  0
+time shift:      0.0000 
+f0:  100000.000 
+latorUTM:          -0.01000 
+longorUTM:         0.00000 
+depth:             0.02547 
+factor force source:              1.d0 
+component dir vect source E:      0.d0 
+component dir vect source N:      0.d0 
+component dir vect source Z_UP:   1.d0 
+/home/jhe26/csp2d_base/DATA/sources3d/3D_5pks_simamp_nod_21srcs_100k_wdelay/0018 
+FORCE  0
+time shift:      0.0000 
+f0:  100000.000 
+latorUTM:          -0.01000 
+longorUTM:         0.00000 
+depth:             0.02600 
+factor force source:              1.d0 
+component dir vect source E:      0.d0 
+component dir vect source N:      0.d0 
+component dir vect source Z_UP:   1.d0 
+/home/jhe26/csp2d_base/DATA/sources3d/3D_5pks_simamp_nod_21srcs_100k_wdelay/0019 

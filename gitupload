@@ -3,5 +3,5 @@
 ## copy all my code to my_all then update github 
 
 git add .
-git commit -m "first upload"
+git commit -m "second upload"
 git push -u origin master
